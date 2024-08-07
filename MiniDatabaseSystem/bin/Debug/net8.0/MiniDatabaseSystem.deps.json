@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MiniDatabaseSystem/1.0.0": {
+        "runtime": {
+          "MiniDatabaseSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiniDatabaseSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

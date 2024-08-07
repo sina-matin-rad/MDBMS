@@ -1,0 +1,15 @@
+D:\SMN\C#\MDBMS\MiniDatabaseSystem\bin\Debug\net8.0\MiniDatabaseSystem.exe
+D:\SMN\C#\MDBMS\MiniDatabaseSystem\bin\Debug\net8.0\MiniDatabaseSystem.deps.json
+D:\SMN\C#\MDBMS\MiniDatabaseSystem\bin\Debug\net8.0\MiniDatabaseSystem.runtimeconfig.json
+D:\SMN\C#\MDBMS\MiniDatabaseSystem\bin\Debug\net8.0\MiniDatabaseSystem.dll
+D:\SMN\C#\MDBMS\MiniDatabaseSystem\bin\Debug\net8.0\MiniDatabaseSystem.pdb
+D:\SMN\C#\MDBMS\MiniDatabaseSystem\obj\Debug\net8.0\MiniDatabaseSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\SMN\C#\MDBMS\MiniDatabaseSystem\obj\Debug\net8.0\MiniDatabaseSystem.AssemblyInfoInputs.cache
+D:\SMN\C#\MDBMS\MiniDatabaseSystem\obj\Debug\net8.0\MiniDatabaseSystem.AssemblyInfo.cs
+D:\SMN\C#\MDBMS\MiniDatabaseSystem\obj\Debug\net8.0\MiniDatabaseSystem.csproj.CoreCompileInputs.cache
+D:\SMN\C#\MDBMS\MiniDatabaseSystem\obj\Debug\net8.0\MiniDatabaseSystem.sourcelink.json
+D:\SMN\C#\MDBMS\MiniDatabaseSystem\obj\Debug\net8.0\MiniDatabaseSystem.dll
+D:\SMN\C#\MDBMS\MiniDatabaseSystem\obj\Debug\net8.0\refint\MiniDatabaseSystem.dll
+D:\SMN\C#\MDBMS\MiniDatabaseSystem\obj\Debug\net8.0\MiniDatabaseSystem.pdb
+D:\SMN\C#\MDBMS\MiniDatabaseSystem\obj\Debug\net8.0\MiniDatabaseSystem.genruntimeconfig.cache
+D:\SMN\C#\MDBMS\MiniDatabaseSystem\obj\Debug\net8.0\ref\MiniDatabaseSystem.dll
